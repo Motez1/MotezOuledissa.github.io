@@ -5,6 +5,10 @@
     
 }
 
+html {
+  scroll-behavior: smooth;
+}
+
 body{
     background-image: linear-gradient(rgba(34, 40, 49,0.7),rgba(34, 40, 49,0.7)),url("../images/background.jpg");
     background-position: center;
